@@ -1,0 +1,263 @@
+<html>
+<title>Login</title>
+<style>
+body {
+    font-family: 'Roboto', cambria;
+}
+.flex{
+				display: flex;
+				align-items: center;		
+		}
+		.container1{
+				width: 100%;
+				height: 80px;
+				color: white;
+				background: rgba(0,0,0,0.5);
+		}
+		nav{
+				margin: 0 30px;
+		}
+		ul{
+				list-style: none;
+				margin: 20px;
+				font-size: 20px;
+		}
+		li{
+				margin: 0 10px;
+				cursor; pointer;
+		}
+		.inp{
+				position: absolute;
+				top:25px;
+				right: 5px;
+		}
+		.input{
+				height: 45px;
+				border-radius: 5px;
+				font-size: 17px;
+		}
+		.text{
+				padding-left: 20px;
+				margin-right: 50px;
+				color: white;
+				outline: 1px solid blue;
+		}
+		.submit{
+				width: 100px;
+				margin-right: 50px;
+				background: black;
+				color:green;
+				border: 3px solid green;
+		}
+.login-box {
+    margin-top: 120px;
+    height: 400;
+	width: 1000px;
+	position:absolute;
+	right:15%;
+    background: #1A2226;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.login-key {
+	margin-top: 10px;
+    height: 50px;
+    font-size: 80px;
+    line-height: 50px;
+    
+}
+body{
+			height: 100vh;
+			background-image: url('C:/Users/manne/OneDrive/Desktop/income tax official website/ITP.png');
+			background-size: cover;
+		}
+
+.login-title {
+    margin-top: 1px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.login-form {
+    margin-top: 80px;
+    text-align: center;
+}
+
+input[type=text] {
+    background-color: #1A2226;
+    border: none;
+    border-bottom: 2px solid #0DB8DE;
+    border-top: 0px;
+    border-radius: 0px;
+	font-size: 20px;
+    font-weight: bold;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    color: #ECF0F5;
+}
+
+input[type=password] {
+    background-color: #1A2226;
+    border: none;
+    border-bottom: 2px solid #0DB8DE;
+    border-top: 0px;
+    border-radius: 0px;
+	font-size: 20px;
+    font-weight: bold;
+    outline: 0;
+    padding-left: 0px;
+    margin-bottom: 50px;
+    color: #ECF0F5;
+}
+
+.form-group {
+    margin-bottom: 60px;
+    outline: 10px;
+}
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 2px solid red;
+    outline: 0;
+    background-color: black;
+    color: grey;
+}
+
+
+label {
+    margin-bottom: 10px;
+}
+
+.form-control-label {
+    font-size: 25px;
+    color: #6C6C6C;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.btn-outline-primary {
+    border-color: #0DB8DE;
+    color: #0DB8DE;
+	position: absolute;
+	top: 110%;
+	right:35%;
+    border-radius: 10px;
+    font-weight: bold;
+	font-size:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    letter-spacing: 1px;
+	margin-right: 100px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.forgot{
+	 border-color: #0DB8DE;
+    color: #0DB8DE;
+	position: absolute;
+	top: 100%;
+	right:35%;
+    border-radius: 10px;
+    font-weight: bold;
+	font-size:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    letter-spacing: 1px;
+	margin-right: 100px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.register{
+	 border-color: #0DB8DE;
+    color: #0DB8DE;
+	position: absolute;
+	top: 100%;
+	right:15%;
+    border-radius: 10px;
+    font-weight: bold;
+	font-size:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    letter-spacing: 1px;
+	margin-right: 100px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+</style>
+<body>
+<div class = "container1 flex">
+				<nav class = "flex">
+						<h1>Income Tax Portal</h1>
+						<ul class = "flex">
+								<a href="website.html">
+								<li>Home</li></a>
+								<a href="aboutus.html">
+								<li>About Us</li></a>
+								<a href="contactus.html">
+								<li>Contact Us</li></a>
+						</ul>
+						<div class = "inp">
+								<input type = "text" placeholder = "Search" class = "input text">
+								<input type = "submit" value = "Search" class = "input submit">
+						</div>
+				</nav>
+		</div>
+ <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-2"></div>
+            <div class="col-lg-6 col-md-8 login-box">
+                <div class="col-lg-12 login-key">
+                    <i class="fa fa-key" aria-hidden="true"></i>
+                </div>
+                <div class="col-lg-12 login-title">
+                    LOGIN TO YOUR ACCOUNT.
+                </div>
+
+                <div class="col-lg-12 login-form">
+                    <div class="col-lg-12 login-form">
+                        <form>
+                            <div class="form-group">
+                                <label class="form-control-label">USERNAME</label>
+                                <input type="text" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-control-label">PASSWORD</label>
+                                <input type="password" class="form-control" i>
+                            </div>
+
+                            <div class="col-lg-12 loginbttm">
+                                <div class="col-lg-6 login-btm login-text">
+                                    <!-- Error Message -->
+                                </div>
+                                <div class="col-lg-6 login-btm login-button">
+                                    <button type="submit" class="btn btn-outline-primary">LOGIN</button>
+									<div class= "forgot">
+									<button type="submit" class="forgot">Forgot Password</button>
+									</div>
+									<div class= "register">
+									<button type="submit" class="register"><a href = "register.html">SIGN-UP</button></a>
+									
+									</div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-2"></div>
+            </div>
+        </div>
+		
+</body>
+
+</html>
