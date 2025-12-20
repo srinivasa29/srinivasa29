@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **REST API Projects**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 🌐 Visit my portfolio: [srinivasaportfolllio.netlify.app](https://srinivasaportfolllio.netlify.app/)
+- 🌐 Visit my portfolio: [srinivasaportfolllio.netlify.app](https://srinivasa7.netlify.app//)
 - 💬 Ask me about **C++, Java, Git, React**
 - 📫 Reach me at: **srinivasamannepula7@gmail.com**
 
