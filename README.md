@@ -1,63 +1,110 @@
 <h1 align="center">Hi 👋, I'm Mannepula Srinivasa</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Young Coder" width="300" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300" alt="Coding">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinivasa29&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasa29" />
+  <img src="https://komarev.com/ghpvc/?username=srinivasa29&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **REST API Projects**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 🌐 Visit my portfolio: [srinivasaportfolllio.netlify.app](https://srinivasa7.netlify.app//)
-- 💬 Ask me about **C++, Java, Git, React**
-- 📫 Reach me at: **srinivasamannepula7@gmail.com**
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Spring Boot Microservices & DevOps**
+- 💻 Passionate about **Java Full Stack Development**
+- 🚀 Building REST APIs using Spring Boot
+- 🤝 Open to collaborating on Java & React Projects
+- 🌐 Portfolio: https://srinivasa7.netlify.app/
+- 📫 Email: **srinivasamannepula7@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/mannepula srinivasa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mannepulasrinivasa_5023" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/srinivasam9sd2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/srinivasa29" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/mannepulasrinivasa_5023/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/srinivasam9sd2/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠 Languages and Tools
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivasa29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinivasa29&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasa29&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasa29&" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srinivasa29&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📇 Smart Contact Management System (Spring Boot + MySQL)
+- 💰 Expense Tracker (Spring Boot + React)
+- 🏠 SwapNest
+- 📈 Radar - Stock Analysis Platform
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
